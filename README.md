@@ -4,7 +4,7 @@
 
 ### 0. 
 
-По ссылке (https://github.com/MatsuriDayo/nekoray/releases) скачайте последний релиз для windows,распакуйте его, **и запустите nekobox.exe от имени администратора**
+По ссылке ([https://github.com/MatsuriDayo/nekoray/releases](https://github.com/2dust/v2rayN/releases)) скачайте последний релиз для windows,распакуйте его, **и запустите nekobox.exe от имени администратора**
 
 ---
 
