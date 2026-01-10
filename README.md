@@ -10,27 +10,27 @@
 
 ---
 
-![](windows1.png)
+![](1.png)
 
 ---
 
-![](windows2.png)
+![](2.png)
 
 ---
 
-![](windows5.png)
+![](3.png)
 
 ---
 
-![](windows6.png)
+![](4.png)
 
 ---
 
-![](windows7.png)
+![](5.png)
 
 ---
 
-![](windows8.png)
+![](6.png)
 
 ---
 
